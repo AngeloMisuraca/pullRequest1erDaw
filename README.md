@@ -3,10 +3,11 @@
 
 
 * Marc
--Ian
-- Marc
-- Jennifer
-- Yassen
-- Jan
-- Arman
-- Amine
+  -Ian
+* Marc
+* Jennifer
+* Yassen
+* Jan
+* Arman
+* Amine
+* Angelo
