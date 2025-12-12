@@ -3,7 +3,7 @@
 
 
 * Marc
-  -Ian
+* Ian
 * Marc
 * Jennifer
 * Yassen
@@ -11,3 +11,12 @@
 * Arman
 * Amine
 * Angelo
+* Ian
+- Marc
+- Jennifer
+- Yassen
+- Jan
+- Arman
+- Chorouq
+- Amine
+-chams
